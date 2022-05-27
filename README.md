@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Patryk</h1>
+<h1 align="center"> Hi 👋, I'm Patryk :smile:</h1>
 
 
 👷‍♂️ I’m currently working on learning JavaScript.
