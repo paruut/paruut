@@ -9,7 +9,7 @@
 👨‍🎓 Roadmap:
 
 
-| ~~HTML~~ | ~~CSS~~ | **JS** 👈 | React | TypeScript |
+| ~~HTML~~ | ~~CSS~~ | ~~JS~~ | **React** 👈 | TypeScript |
 
 
 💻 [My portfolio](https://my-portfolio-pr.netlify.app/)
