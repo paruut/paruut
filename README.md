@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=paruut&color=dc143c)
 
-👷‍♂️ I’m currently working on learning JavaScript.
+👷‍♂️ I’m currently working on learning React.
 
 
 👨‍🎓 Roadmap:
