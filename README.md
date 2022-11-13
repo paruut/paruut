@@ -12,7 +12,7 @@
 | ~~HTML~~ | ~~CSS~~ | ~~JS~~ | **React** 👈 | TypeScript |
 
 
-💻 [My portfolio](https://my-portfolio-pr.netlify.app/)
+💻 [My portfolio](https://paruut.github.io/portfolio/)
 
 
 
