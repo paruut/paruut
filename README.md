@@ -7,5 +7,7 @@ Junior Frontend Developer with 9 months experience. I have a strong foundation i
 
 💻 [My portfolio](https://paruut.github.io/portfolio/)
 
+[Feel free to contact with me:](https://paruut.github.io/portfolio/#contactsection)
+
 
 
