@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Patryk :smile:</h1>
+<h1 align="center"> Hi 👋, I'm Patryk </h1>
 
 
 ![](https://komarev.com/ghpvc/?username=paruut&color=dc143c)
@@ -7,7 +7,7 @@ Junior Frontend Developer with 9 months experience. I have a strong foundation i
 
 💻 [My portfolio](https://paruut.github.io/portfolio/)
 
-[-> Feel free to contact with me <- ](https://paruut.github.io/portfolio/#contactsection)
+Feel free to [contact](https://paruut.github.io/portfolio/#contactsection) with me
 
 
 
