@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Patryk - Frontend Developer </h1>
+<h1 align="center"> Hi, I'm Patryk </h1>
 
 
 ![](https://komarev.com/ghpvc/?username=paruut&color=dc143c)
